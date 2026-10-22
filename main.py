@@ -1,4 +1,3 @@
-```python
 # Cria uma lista com as opções de sistemas operacionais da enquete.
 # Cada elemento representa uma alternativa que o participante pode votar.
 opcoes = ["windows", "unix", "linux", "netware", "mac os", "outros votos"]
